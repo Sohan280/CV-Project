@@ -1,0 +1,133 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: azure;
+    font-family: 'Roboto', sans-serif;
+
+}
+.container{
+    max-width: 1000px;
+    background-color: rgb(247, 218, 184);
+    margin: 0% auto;
+    padding: 20px;
+}
+.image-profile{
+    width: 120px;
+    height:100px;
+    border: 3px seashell;
+    border-radius: 50%;
+    float: left;
+}
+.header-bio{
+    font-family: 'Roboto', sans-serif;
+    float: left;
+    padding: 20px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: rgb(77, 6, 77);
+}
+.bio-info{
+    float: right;
+    padding: 30px;
+}
+.bio-info a{
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+
+}
+.bio-info a:hover{
+    text-decoration: wavy;
+    color:aquamarine;
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border: dotted rgb(255, 0, 0) 3px;
+    margin: 20px auto;
+    width: 100%;
+    border-bottom: none;
+}
+/*.........
+personal section start
+..............*/
+#personal-section{
+
+}
+.content{
+
+}
+.left-div{
+    width: 25%;
+    float: left;
+
+}
+.right-div{
+    width: 75%;
+    float: left;
+}
+.common-hr{
+    border: dotted burlywood;
+    width: 100%;
+    margin: 20px auto;
+}
+.right-div1{
+    width: 25%;
+    float: left;
+}
+.right-div1 a{
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+}
+.right-div1  :hover a{
+    text-decoration: wavy;
+    color: aquamarine;
+}
+.right-div2{
+    width: 25%;
+    float: left;
+}
+.right-div2 a{
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+}
+.right-div2 :hover a{
+    text-decoration: wavy;
+    color: aquamarine;
+}
+.right-div3{
+    width: 25%;
+    float: left;
+}
+.right-div3 a{
+    text-decoration: none;
+    color:teal;
+    font-weight: bold;
+}
+.right-div3 :hover a{
+    text-decoration: wavy;
+    color:aquamarine;
+}
+/*.........
+personal section start
+..............*/
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.bottom-container a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.bottom-container p{
+    color: white;
+    margin-top: 20px;
+}
+
